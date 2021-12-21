@@ -1,4 +1,4 @@
-# Traditional-mongolian-introduction-to-DL-and-semantic-segmentation
+# Brief introduction to DL and semantic segmentation in traditional mongolian script
 
 A brief intoduction to deep learning and semantic segmentation in traditional mongolian script.
 
