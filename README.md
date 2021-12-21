@@ -1,0 +1,1 @@
+# Traditional-mongolian-introduction-to-DL-and-semantic-segmentation
