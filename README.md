@@ -4,4 +4,4 @@ A brief intoduction to deep learning and semantic segmentation in traditional mo
 
 There are PDF and Powerpoint slides.
 
-Viewing slides needs to downloads Zcode(Z Mongol Code):https://install.zcodetech.com/
+Viewing slides needs to download Zcode(Z Mongol Code):https://install.zcodetech.com/
